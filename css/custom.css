@@ -1,0 +1,10 @@
+.title {
+    color:#000;
+}
+.footer-container footer {
+    color:#000;
+}
+
+#paper_canvas {
+    border: solid 1px #000;
+}
